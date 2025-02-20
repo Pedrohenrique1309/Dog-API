@@ -1,4 +1,4 @@
-﻿# Pesquisar imagens de cachorros pela raça
+﻿# Pesquisar galeria de cachorros pela raça
 
 ![](./Captura%20de%20tela%202025-02-20%20105819.png)
 
